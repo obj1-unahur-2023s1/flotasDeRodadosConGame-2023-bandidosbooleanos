@@ -1,7 +1,12 @@
 import wollok.game.*
+import rodados.*
+import pedidos.*
+import dependencias.*
 
 program corsasEnElGame {
-	// hacer las inicializaciones necesarias 
+	
+		
+
 	
 	game.start()
 }
